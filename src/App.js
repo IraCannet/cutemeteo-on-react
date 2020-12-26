@@ -7,13 +7,13 @@ export default function App() {
 
         	      <footer>
         This project was coded by{" "}
-        <a href="https://github.com/IraCannet" target="_blank">
+        <a href="https://github.com/IraCannet" target="_blank" rel="noopener noreferrer">
           Ira
         </a>{" "}
         and is{" "}
         <a
           href="https://github.com/IraCannet/cutemeteo-on-react"
-          target="_blank"
+          target="_blank" rel="noopener noreferrer"
         >
           open-sourced on GitHub
         </a>
