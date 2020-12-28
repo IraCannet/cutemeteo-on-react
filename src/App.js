@@ -6,7 +6,7 @@ export default function App() {
     <div className="App">
             <div className="container">
       <h1>Weather App</h1>
-      <Weather />
+      <Weather defaulftCity="Paris"/>
         <footer>
           This project was coded by{" "}
           <a href="https://github.com/IraCannet" target="_blank" rel="noopener noreferrer">
